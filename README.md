@@ -1,6 +1,9 @@
 # Multi-function-Inception-v4
+
+An example of a Multi-function Inception-v4 model is created.
+
 ```
-[code]
+python3 main.py
 ```
 Cite Keras:
 
