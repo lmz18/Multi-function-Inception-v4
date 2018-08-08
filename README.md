@@ -3,13 +3,18 @@
 An example of a Multi-function Inception-v4 model is created.
 There are 4 python files, and main.py is the file to run.
 
-All together, from these scripts, several multi-function Inception-v4 and single-function Inception-v4 models get created, trained, and tested on a dataset. For evaluation, training and test accuracy are calculated.
+All together, from these scripts, several multi-function Inception-v4 and several single-function Inception-v4 models are created, trained, and tested on a dataset. For evaluation, training accuracy and test accuracy are calculated for all CNN models.
 
-Currently, the activation functions are randomly chosen for all neurons in a conv block from a set defined by the user.
+Currently, the activation functions are randomly chosen for all neurons in a conv block from a set of activation functions defined by the user.
+
 ```
 python3 main.py
 ```
-Cite Keras:
+
+Citations:
+1) Google Inception v4:
+
+2) Keras:
 
 @misc{chollet2015keras,
   title={Keras},
@@ -17,5 +22,3 @@ Cite Keras:
   year={2015},
   howpublished={\url{https://keras.io}},
 }
-
-Cite Google Inception v4:
