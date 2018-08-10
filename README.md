@@ -15,24 +15,7 @@ python3 main.py
 Citations:
 1) Google Inception v4:
 
-@article{journals/corr/SzegedyIV16,
-  added-at = {2016-03-01T00:00:00.000+0100},
-  author = {Szegedy, Christian and Ioffe, Sergey and Vanhoucke, Vincent},
-  biburl = {https://www.bibsonomy.org/bibtex/23ec63c12997faa69b9a3b9033eb24a37/dblp},
-  ee = {http://arxiv.org/abs/1602.07261},
-  interhash = {aea48078344599b4468bc255bdcce275},
-  intrahash = {3ec63c12997faa69b9a3b9033eb24a37},
-  journal = {CoRR},
-  keywords = {dblp},
-  timestamp = {2016-03-02T11:36:05.000+0100},
-  title = {Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning.},
-  url = {http://dblp.uni-trier.de/db/journals/corr/corr1602.html#SzegedyIV16},
-  volume = {abs/1602.07261},
-  year = 2016
-}
-
-
-
+Szegedy, Christian, Sergey Ioffe, and Vincent Vanhoucke. 2016. “Inception-V4, Inception-Resnet and the Impact of Residual Connections on Learning.” CoRR abs/1602.07261. http://arxiv.org/abs/1602.07261.
 
 2) Keras:
 
