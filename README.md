@@ -7,6 +7,7 @@ All together, from these scripts, several multi-function Inception-v4 and severa
 
 Currently, the activation functions are randomly chosen for all neurons in a conv block from a set of activation functions defined by the user.
 
+To run the code:
 ```
 python3 main.py
 ```
